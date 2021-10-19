@@ -1,0 +1,3 @@
+/Volumes/SanDisk/SIDE PROJECTS/poly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/SanDisk/SIDE PROJECTS/poly/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/SanDisk/SIDE PROJECTS/poly/cmake-build-debug/CMakeFiles/poly.dir
